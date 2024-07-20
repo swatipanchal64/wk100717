@@ -16,9 +16,9 @@ app.set('views', path.join(__dirname, 'views'));
 // Database configuration
 const config = {
     user: 'azureuser',
-    password: 'P@ssw0rdssss',
-    server: 'week9911.database.windows.net',
-    database: 'week9',
+    password: 'swa_pan_200395',
+    server: 'wk10717.database.windows.net',
+    database: 'wk10717',
   options: {
     encrypt: true,
     enableArithAbort: true
